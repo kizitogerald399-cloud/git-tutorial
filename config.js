@@ -1,2 +1,2 @@
-console.log('config.js');
-console.log('version 45');
+console.log('config.js important');
+console.log('version 45 versin 11');
